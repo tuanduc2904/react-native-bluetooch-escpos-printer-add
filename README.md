@@ -9,7 +9,7 @@ React-Native plugin for the bluetooth ESC/POS & TSC printers.
 ### Step 1 ###
 
 ```bash
-yarn add https://github.com/LongNguyen2312/react-native-bluetooch-escpos-printer-add.git
+yarn add https://github.com/tuanduc2904/react-native-bluetooch-escpos-printer-add.git
 ```
 
 ### Step2 ###
